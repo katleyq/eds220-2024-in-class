@@ -1,8 +1,0 @@
----
-title: "Untitled"
-format: html
----
-
-# This is a sample Quarto document
-
-I should delete this later
